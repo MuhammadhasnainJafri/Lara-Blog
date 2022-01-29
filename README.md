@@ -53,14 +53,14 @@ password: admin123
 
 ## Home Page
 
-![home_page](./pubic/images/home.jpg)
+![home_page](./public/images/home.jpg)
 
 ## login page
 
-![login](./pubic/images/login.jpg)
+![login](./public/images/login.jpg)
 
 ## All post page   
-![All_Post](./pubic/images/post.jpg)
+![All_Post](./public/images/post.jpg)
 
 
 ## License
