@@ -66,3 +66,6 @@ password: admin123
 ## License
 
 laravel-bjyblog is open-sourced software licensed under the MIT license.
+ Front-End template Credit (Theme template is taken from StyleShout)
+		[https://www.styleshout.com/free-templates/abstract/](https://www.styleshout.com/free-templates/abstract/)
+
