@@ -22,9 +22,14 @@ This complete laravel blog app has been developed by <b>Muhammad Hasnain</b> Fro
 ![developer](./public/images/Developer.jpg)
 <br>
 ### Contact Information
-    Email to <a href="mailto:mhasnainjafriprofessional@gmail.com" target="_blank">mhasnainjafriprofessional@gmail.com</a><br>
-    Email to <a href="mailto:mhasnainjafri0099@outlook.com" target="_blank">mhasnainjafri0099@outlook.com</a><br>
-    Whatsapp no : <a href="https://wa.me/+923446800893?text=Hello Hasnain, " target="_blank">+923446800893</a><br>
+Email to 
+<a href="mailto:mhasnainjafriprofessional@gmail.com" target="_blank">mhasnainjafriprofessional@gmail.com</a>
+    <br>
+Email to 
+<a href="mailto:mhasnainjafri0099@outlook.com" target="_blank">mhasnainjafri0099@outlook.com</a>
+    <br>
+Whatsapp no : 
+<a href="https://wa.me/+923446800893?text=Hello Hasnain, " target="_blank">+923446800893</a><br>
 
 
 ## Setting up your development environment on your local machine :
