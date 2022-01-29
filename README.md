@@ -19,7 +19,7 @@ This complete laravel blog app has been developed by Muhammad Hasnain From pakis
     - view all comments of his posts
     
 ## Developer Image
-![developer](./pubic/images/Developer.jpg)
+![developer](pubic/images/Developer.jpg)
 <br>
 ### Contact Information
 <a href="mailto:mhasnainjafriprofessional@gmail.com" target="_blank">mhasnainjafriprofessional@gmail.com</a>
