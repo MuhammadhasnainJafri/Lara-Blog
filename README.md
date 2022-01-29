@@ -1,5 +1,5 @@
 <h3 >
-This complete laravel blog app has been developed by <b>Muhammad Hasnain<b> From pakistan.
+This complete laravel blog app has been developed by <b>Muhammad Hasnain</b> From pakistan.
     </h3>
 ## types of the users  
 
@@ -22,9 +22,9 @@ This complete laravel blog app has been developed by <b>Muhammad Hasnain<b> From
 ![developer](./public/images/Developer.jpg)
 <br>
 ### Contact Information
-<a href="mailto:mhasnainjafriprofessional@gmail.com" target="_blank">mhasnainjafriprofessional@gmail.com</a><br>
-<a href="mailto:mhasnainjafri0099@outlook.com" target="_blank">mhasnainjafri0099@outlook.com</a><br>
- Whatsapp no : <a href="https://wa.me/+923446800893?text=Hello Hasnain, " target="_blank">+923446800893</a><br>
+    Email to <a href="mailto:mhasnainjafriprofessional@gmail.com" target="_blank">mhasnainjafriprofessional@gmail.com</a><br>
+    Email to <a href="mailto:mhasnainjafri0099@outlook.com" target="_blank">mhasnainjafri0099@outlook.com</a><br>
+    Whatsapp no : <a href="https://wa.me/+923446800893?text=Hello Hasnain, " target="_blank">+923446800893</a><br>
 
 
 ## Setting up your development environment on your local machine :
@@ -65,7 +65,7 @@ password: admin123
 
 ## License
 
-laravel-bjyblog is open-sourced software licensed under the MIT license.
+laravel-bjyblog is open-sourced software licensed under the MIT license.<br>
  Front-End template Credit (Theme template is taken from StyleShout)
-		[https://www.styleshout.com/free-templates/abstract/](https://www.styleshout.com/free-templates/abstract/)
+[https://www.styleshout.com/free-templates/abstract/](https://www.styleshout.com/free-templates/abstract/)
 
